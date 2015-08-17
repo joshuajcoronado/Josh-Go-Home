@@ -1,4 +1,4 @@
-[Josh Go Home](https://ccrma.stanford.edu/~jjcorona/software/Josh_Go_Home/index.html)
+[Josh Go Home](http://joshua.coronado.io/software/josh_go_home.html)
 ============
 
 A music visualizer for MacOSX
